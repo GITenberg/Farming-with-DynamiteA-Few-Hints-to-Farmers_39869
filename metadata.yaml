@@ -1,0 +1,25 @@
+_repo: Farming-with-DynamiteA-Few-Hints-to-Farmers_39869
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39869-h/images/cover.png
+creator:
+  author:
+    agent_name: E.I. du Pont de Nemours & Company
+    alias: Dupont (Firm)
+    gutenberg_agent_id: '40275'
+    url: http://www.gutenberg.org/2009/agents/40275
+description: ''
+gutenberg_issued: '2012-05-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39869'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'S'
+- !lcsh 'Explosives in agriculture'
+title: 'Farming with Dynamite: A Few Hints to Farmers'
+url: http://www.gutenberg.org/ebooks/39869
