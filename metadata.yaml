@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '40275'
     url: http://www.gutenberg.org/2009/agents/40275
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39869#Farming-with-DynamiteA-Few-Hints-to-Farmers
 gutenberg_issued: '2012-05-31'
 gutenberg_type: Text
 identifiers:
